@@ -3,7 +3,7 @@
 I am an experienced web developer.
 
 I founded a [webdevelopment company](https://www.bobbydigital.io/en) in 2012 that I am still running.\
-I have also been the co-founder and CTO of @strimeapp.
+I have also been the co-founder and CTO of [Strime](https://github.com/strimeapp/).
 
 I am really versed into PHP (Symfony, Laravel...), Javascript, NodeJs/ExpressJs, React and Angular.
 
