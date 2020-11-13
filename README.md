@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi there, I'm Romain 👋
+
+I am an experienced web developer.
+
+I founded a [webdevelopment company](https://www.bobbydigital.io/en) in 2012 that I am still running.\
+I have also been the co-founder and CTO of @strimeapp.
+
+I am really versed into PHP (Symfony, Laravel...), Javascript, NodeJs/ExpressJs, React and Angular.
+
+I am also a [published poet](https://tangerinenights.com/p/valparaiso) :closed_book: and an [amateur photographer](https://www.instagram.com/bobby__photo/) :camera:.
 
 <!--
 **Romain/romain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
