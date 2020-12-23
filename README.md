@@ -7,7 +7,7 @@ I have also been the co-founder and CTO of [Strime](https://github.com/strimeapp
 
 I am really versed into PHP (Symfony, Laravel...), Javascript, NodeJs/ExpressJs, React and Angular.
 
-I am also a [published poet](https://tangerinenights.com/p/valparaiso) :closed_book: and an [amateur photographer](https://www.instagram.com/bobby__photo/) :camera:.
+I am also a [published poet](https://tangerinenights.com/p/valparaiso) and [short novelist](https://tangerinenights.com/p/prime-a-l-enfance) :closed_book:, and an [amateur photographer](https://www.instagram.com/bobby__photo/) :camera:.
 
 <!--
 **Romain/romain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
