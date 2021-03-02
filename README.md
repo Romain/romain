@@ -5,7 +5,8 @@ I am an experienced web developer.
 I founded a [webdevelopment company](https://www.bobbydigital.io/en) in 2012 that I am still running.\
 I have also been the co-founder and CTO of [Strime](https://github.com/strimeapp/).
 
-I am really versed into PHP (Symfony, Laravel...), Javascript, NodeJs/ExpressJs, React and Angular.
+:genie_man: I am really versed into PHP (Symfony, Laravel...) :elephant:, Javascript, NodeJs/ExpressJs, React and Angular.\
+🌱 I am currently learning Rust. :crab:
 
 I am also a [published poet](https://tangerinenights.com/p/valparaiso) and [short novelist](https://tangerinenights.com/p/prime-a-l-enfance) :closed_book:, and an [amateur photographer](https://www.instagram.com/bobby__photo/) :camera:.
 
