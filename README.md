@@ -1,6 +1,6 @@
 ### Hi there, I'm Romain 👋
 
-I am an experienced web developer.
+I am an experienced web developer also acting as an freelance technical director.
 
 I founded a [webdevelopment company](https://www.bobbydigital.io/en) in 2012 that I am still running.\
 I have also been the co-founder and CTO of [Strime](https://github.com/strimeapp/).
