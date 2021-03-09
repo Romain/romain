@@ -3,7 +3,7 @@
 I am an experienced web developer also acting as a freelance technical director.
 
 I founded a [webdevelopment company](https://www.bobbydigital.io/en) in 2012 that I am still running.\
-I have also been the co-founder and CTO of [Strime](https://github.com/strimeapp/), which integrated @startupchile in 2017.
+I have also been the co-founder and CTO of [Strime](https://github.com/strimeapp/), which integrated [Start-Up Chile](https://www.startupchile.org/) in 2017.
 
 :genie_man: I am really versed into PHP (Symfony, Laravel...) :elephant:, Javascript, NodeJs/ExpressJs, React and Angular.\
 🌱 I am currently learning Rust. :crab:
