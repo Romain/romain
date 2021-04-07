@@ -10,6 +10,8 @@ I have also been the co-founder and CTO of [Strime](https://github.com/strimeapp
 
 I am also a [published poet](https://tangerinenights.com/p/valparaiso) and [short novelist](https://tangerinenights.com/p/prime-a-l-enfance) :closed_book:, and an [amateur photographer](https://www.instagram.com/bobby__photo/) :camera:.
 
+<!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=romain&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)-->
+
 <!--
 **Romain/romain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
