@@ -1,12 +1,12 @@
 ### Hi there, I'm Romain 👋
 
-I am an experienced web developer also acting as a freelance technical director.
+I am a senior R&D engineer looking for a CTO position.
 
-I founded a [webdevelopment company](https://www.bobbydigital.io/en) in 2012 that I am still running.\
+I founded a [webdevelopment company](https://www.bobbydigital.io/en) in 2012.\
 I have also been the co-founder and CTO of [Strime](https://github.com/strimeapp/), which integrated [Start-Up Chile](https://www.startupchile.org/) in 2017.
 
-:genie_man: I am really versed into PHP (Symfony, Laravel...) :elephant:, Javascript, NodeJs/ExpressJs, React and Angular.\
-🌱 I am currently learning Rust. :crab:
+:genie_man: I am really versed into PHP (Symfony, Laravel...) :elephant:, Javascript, NodeJs/ExpressJs, NestJS, HapiJS, VueJS and React.\
+🌱 I am currently working on Go.
 
 I am also a [published poet](https://tangerinenights.com/p/valparaiso) and [short novelist](https://tangerinenights.com/p/prime-a-l-enfance) :closed_book:, and an [amateur photographer](https://www.instagram.com/bobby__photo/) :camera:.
 
