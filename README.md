@@ -1,6 +1,6 @@
 ### Hi there, I'm Romain 👋
 
-I the COO (formerly CTO) of an EdTech company.
+I am the COO (formerly CTO) of an EdTech company.
 
 I founded a webdevelopment company in 2012.\
 I have also been the co-founder and CTO of [Strime](https://github.com/strimeapp/), which integrated [Start-Up Chile](https://www.startupchile.org/) in 2017.
